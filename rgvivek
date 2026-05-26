@@ -1,0 +1,4 @@
+resource "Azurerm_Resource _Group" "RG2"{
+name= ""rg2"
+locstion="east_Us"
+}
